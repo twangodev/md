@@ -1,4 +1,4 @@
-clipboard2markdown
+md
 ==================
 
 > Easily convert richly formatted text or HTML to
